@@ -366,3 +366,10 @@ NHC a-deck forecast advisories · NOAA GEFS v12 archive (audit) ·
 FEMA Disaster Declarations Summaries (secondary target only) ·
 CDC/ATSDR Social Vulnerability Index · Open-Meteo (forecast and ERA5 archive) ·
 NWS api.weather.gov (active alerts)
+
+## Team
+
+Ganesh Pinnu · Sudarshan · Malav Hitendra Kumar Patel · Manoj Krishna Sai Sadhu
+
+The history was published from one working clone, so GitHub's contributor
+graph credits a single account. [AUTHORS](AUTHORS) is the authoritative list.
