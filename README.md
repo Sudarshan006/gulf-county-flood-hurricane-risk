@@ -1,6 +1,6 @@
 # County Flood & Hurricane Risk
 
-**[Open the dashboard →](https://ganeshpinnu5.github.io/county-flood-hurricane-risk/)**
+**[Open the dashboard →](https://sudarshan006.github.io/gulf-county-flood-hurricane-risk/)**
 
 Pick any county in the lower 48 and see the live 4-day weather forecast, any
 National Weather Service warning in force right now, and — across the Gulf

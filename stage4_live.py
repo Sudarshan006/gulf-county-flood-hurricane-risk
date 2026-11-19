@@ -55,7 +55,7 @@ PTS_CACHE = HERE / "artifacts" / "stage4" / "nws_points.json"
 MAPPING = HERE / "refdata" / "station_county_mapping.csv"
 # NWS asks for a contact string so they can reach you during a security event.
 UA = {"User-Agent": "(county-flood-hurricane-risk research, "
-                    "github.com/Ganeshpinnu5/county-flood-hurricane-risk)"}
+                    "github.com/Sudarshan006/gulf-county-flood-hurricane-risk)"}
 NCEI = "https://www.ncei.noaa.gov/access/services/data/v1"
 
 # GHCN days are local calendar days; the Gulf is mostly US Central. One hour of

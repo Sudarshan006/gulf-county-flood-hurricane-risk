@@ -95,8 +95,8 @@ run.italic = True
 
 links = doc.add_paragraph()
 links.alignment = WD_ALIGN_PARAGRAPH.CENTER
-links.add_run("Dashboard: https://ganeshpinnu5.github.io/county-flood-hurricane-risk/\n"
-              "Code: https://github.com/Ganeshpinnu5/county-flood-hurricane-risk")
+links.add_run("Dashboard: https://sudarshan006.github.io/gulf-county-flood-hurricane-risk/\n"
+              "Code: https://github.com/Sudarshan006/gulf-county-flood-hurricane-risk")
 
 note = doc.add_paragraph()
 note.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -771,8 +771,8 @@ p("Nothing needs to be installed to look at the dashboard — it is just a "
   "public web page. To rebuild the analysis from scratch:")
 code = doc.add_paragraph()
 run = code.add_run(
-    "git clone https://github.com/Ganeshpinnu5/county-flood-hurricane-risk\n"
-    "cd county-flood-hurricane-risk\n"
+    "git clone https://github.com/Sudarshan006/gulf-county-flood-hurricane-risk\n"
+    "cd gulf-county-flood-hurricane-risk\n"
     "pip install -r requirements.txt\n\n"
     "python stage2.py          # build the data and fit the model\n"
     "python stage3.py          # correct the percentages and run the checks\n"
